@@ -1,0 +1,152 @@
+
+
+
+
+.jumbotron{
+
+    background-image: url(./images/communityshot.png);
+  
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    padding: 25px;
+}
+
+header{
+    border: 60px;
+    background-color: aqua;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-size: 80px;
+    color: blue;
+    text-align: center;
+}
+
+#blueropepic{
+
+    float:left;
+    width:450px;
+    height:500px;
+    color: white;
+    font-weight: bold;
+    padding: 25px;
+}
+
+#bluerope_section{
+    float:right;
+    width:600px;
+    height:500px;
+    background-color:DodgerBlue;
+    padding: 25px;
+    font-weight: bold;
+    color: white;
+}
+
+#getfitsecion{
+    text-align: center;
+    background-color:rgb(50, 205, 50);
+    color: white;
+    font-weight: bold;
+    padding:25px;
+}
+
+
+.lowersection{
+
+    padding: 25px;  
+}
+
+
+th{
+  
+    font-weight: bold;
+    color: white;
+    font-weight: bold;
+    padding: 25px;
+}
+
+#tabletitle{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 25px;
+}
+
+
+
+
+.modal{
+
+
+    height:1500px;
+    width:1250px;
+
+}
+
+
+.modal-body{
+    height:300px;
+    width:250px;
+
+}
+
+.modal-header{
+    background-color: DodgerBlue;
+font-weight: bolder;
+}
+
+#contactform{
+    text-align: center;
+    font-size: 24px;
+    padding: 25px;
+
+
+}
+
+
+
+.modal-footer{
+    background-color:rgb(50, 205, 50);
+
+
+}
+
+#sendingbutton{
+    background-color:rgb(50, 205, 50);
+    border-radius: 20px; 
+    color: white;
+}
+
+
+
+th {
+    background-color:DodgerBlue;  
+}
+td{
+    background-color: orange;
+}
+
+table,th,td, tr{
+
+    border: 3.5px solid purple;
+    padding:25px;
+}
+
+footer{
+  
+   height:  100px ;
+      background-color:DodgerBlue; 
+       text-align: center;
+       position: relative;
+       bottom: 0;
+      
+}
+
+#crossropelogo{
+
+    bottom: 0;
+ 
+    width: 20%;
+}
